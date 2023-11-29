@@ -1,5 +1,3 @@
 Do
-msgbox "you got hacked"
+msgbox "you are done"
 loop
-
-"""ayrıca steghide ile nasıl yapılacagını da ver"""
